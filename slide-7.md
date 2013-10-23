@@ -5,7 +5,7 @@
 * Padrino != Rails
 
 
-
+<!-- this is my advice if you're going to play around with Padrino -->
 
 * Play around with it on a side project
 * Using something that's not rails, you learn a lot about what rails gives you
