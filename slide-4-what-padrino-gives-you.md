@@ -1,7 +1,7 @@
 
-#Introducing Padrino
+#What Padrino gives you
 
-Gives you some/most of the functionality that you've started to miss
+<!-- Some/most of the functionality that you've started to miss -->
 
 * Form Helpers  - form_tag, form_for, field_set_tag
 * Tag Helpers   - tag, content_tag, input_tag.
