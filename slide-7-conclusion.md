@@ -9,7 +9,7 @@
 
 * Play around with it on a side project
 * Using something that's not rails, you learn a lot about what rails gives you
-* It's niche
+* It's niche <!-- but it's built ontop of Sinatra, less perceived risk -->
 
 
 
