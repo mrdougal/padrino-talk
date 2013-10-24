@@ -1,5 +1,5 @@
 
-#How most people experience Sinatra, or how  Padrino
+#How (I think) most people experience Sinatra
 
 <!-- Using a lightweight framework is more stylistic rather than a technical constraint -->
 
@@ -7,10 +7,17 @@ My side-project wanted to use/discover something different.
 Not a good business decision but ok for a side project
 
 Was **loving** Sinatra
+
 * lightweight
 * boots super quick
-* not so much magic - this was different from rails - i enjoyed the change (obviously not for everyone)
+* enjoyed the change <!-- obviously not for everyone -->
 * i felt smart - (purely objectionable)
+
+
+
+
+
+
 
 
 
@@ -34,4 +41,5 @@ You discover you can write hideous ruby code
         TODO insert "example" horror code in front of many rubists
 
 
+<!-- up next - what Padrino gives you -->
 
