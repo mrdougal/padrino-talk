@@ -3,6 +3,7 @@
 
 <!-- Some/most of the functionality that you've started to miss -->
 
+
 * Form Helpers  - form_tag, form_for, field_set_tag
 * Tag Helpers   - tag, content_tag, input_tag.
 * Asset Helpers - link_to, image_tag
@@ -10,7 +11,10 @@
 
 * Mailer       - Similar to ActionMailer (uses Mail gem)
 * Caching      - Route and fragment caching
-* Localization - I18n just like Rails
+* Localization - I18n just like Rails <!-- defined as yaml -->
+
+<!-- these are all modules, so you pick what you want -->
+
 
 * Generators
   * applications
