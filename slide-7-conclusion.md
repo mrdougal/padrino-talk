@@ -21,3 +21,6 @@ Padrino is tasty crispy bacon but it adds fat - use it sparingly
 Thanks
 @mrdougal
 
+
+This talk is available on [github](https://github.com/mrdougal/padrino-talk)
+
