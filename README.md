@@ -1,4 +1,5 @@
 padrino-talk
 ============
 
-My talk on padrino, for the Rails Melbourne meetup
+2013-10-24
+My talk on [padrino](http://www.padrinorb.com/), for the Rails Melbourne meetup 
