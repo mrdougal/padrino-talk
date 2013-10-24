@@ -1,8 +1,8 @@
-#TL;DR
+#TL;DR or didn't listen
 
 * Padrino builds on top of/extends Sinatra <!-- less perceived risk -->
 * Easy to cherry pick the stuff you want <!-- easy to stay lean -->
-* Padrino != Rails
+* Padrino != Rails <!-- although features get similar -->
              
              
 <!-- this is my advice if you're going to play around with Padrino -->

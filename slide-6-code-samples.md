@@ -32,7 +32,7 @@
 
 
 
-##Or just include padrino modules from a Sinatra project
+##Or just include padrino modules to a Sinatra project
 
   * form helpers - i do this a bit
   

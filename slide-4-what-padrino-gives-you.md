@@ -32,11 +32,13 @@
 
 #Features that extend Sinatra
 
+
 * Routing
     * Full url named routes
     * Named params
     * Respond_to support
     * before/after filters
+    
     <!-- if have the time will show some samples -->
     
     

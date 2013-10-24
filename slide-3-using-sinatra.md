@@ -11,7 +11,7 @@ Was **loving** Sinatra
 * lightweight
 * boots super quick
 * enjoyed the change <!-- obviously not for everyone -->
-* i felt smart - (purely objectionable)
+* i felt smart - (purely subjective)
 
 
 
@@ -26,7 +26,7 @@ Was **loving** Sinatra
 
 ##"I"m going to use Sinatra on everything, i don't need rails…"
 
-Then I went to build a form - Sinatra doesn't have any
+Then I went to build a form - Sinatra doesn't have any tools for this
 <!-- obviously didn't far through my side-project -->
 
 
