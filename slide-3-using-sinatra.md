@@ -30,6 +30,8 @@ Then I went to build a form - Sinatra doesn't have any tools for this
 <!-- obviously didn't far through my side-project -->
 
 
+<!-- So then you start doing one of the following -->
+
 * Start rolling your own form helper
 * You start extracting “only the bits of ActiveSupport you need”
   * Similar to removing just one USB cable from your bottom drawer

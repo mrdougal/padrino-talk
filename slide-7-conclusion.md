@@ -16,11 +16,14 @@
 ##Remember 
 
 You're using Sinatra, you're trying to be lean 
-Padrino is tasty crispy bacon but it adds fat - use it sparingly
+**Padrino is tasty crispy bacon but it adds fat - use it sparingly**
 
 Thanks
 @mrdougal
 
+<!-- "Google".sub(/g/i,'D') -->
+
+
 
 This talk is available on [github](https://github.com/mrdougal/padrino-talk)
-
+<!-- Crowd goes wild -->

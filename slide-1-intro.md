@@ -1,6 +1,10 @@
 
-2013-10-23
+2013-10-31
 Dougal MacPherson <dougal.macpherson@me.com>
+
+<!-- how to pronounce -->
+"Google".sub(/g/i,'D')
+
 @mrdougal
 ---------
 
@@ -18,4 +22,4 @@ http://www.padrinorb.com/
   "Our goal with Padrino is to stay true to the core principles of Sinatra while at the same time creating a standard library of tools, helpers and functions that will make Sinatra suitable for increasingly complex applications"
 
 
-<!-- Up next - Introducing Sinatra, and why would you use it -->
+<!-- Up next - Framework comparision -->

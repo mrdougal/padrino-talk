@@ -16,10 +16,12 @@
 <!-- these are all modules, so you pick what you want -->
 
 
-* Generators
+##Generators
   * applications
   * models
   * controllers
+  
+<!-- handy to get you going, or how to configure a large sinatra app -->
 
 
 <!-- Handy but not hard to add into a Sinatra project -->
