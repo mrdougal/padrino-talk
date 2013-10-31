@@ -10,10 +10,14 @@
 * Text Helpers  - "Useful formatting" relative_time_ago, js_escape_html
 
 * Mailer       - Similar to ActionMailer (uses Mail gem)
-* Caching      - Route and fragment caching
+* Caching      - Route and fragment caching <!-- rails takes it away -->
 * Localization - I18n just like Rails <!-- defined as yaml -->
 
-<!-- these are all modules, so you pick what you want -->
+
+<!-- 
+  these are all modules, so you pick what you want 
+  if you include all of these you basically have rails - issue
+-->
 
 
 ##Generators
