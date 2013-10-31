@@ -18,7 +18,7 @@
 
 
 <!-- 
-  eg: Device builds on warden, warden lives in rack
+  eg: Devise builds on warden, warden lives in rack
       Your business logic is possibly a simple ruby model
  -->
 
